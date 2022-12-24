@@ -1,0 +1,31 @@
+
+.googleMap{
+    position: relative;
+    width: 100%;
+    height: 700px;
+    border:0;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.MapText{
+    margin-top: 70px;
+}
+
+.icons, .fa-brands2{
+    margin-right: 20px;
+    color:black;
+    font-size: 40px;
+    transition: 0.2s;
+}
+
+.information{
+    margin-top: 60px;
+}
+
+.data_info_text2{
+    color: black;
+}
+.small_textM{
+    margin-top: 20px;
+}
